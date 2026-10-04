@@ -48,7 +48,7 @@ tags:
 - Wealth Management
 - Robo-Advisor
 - Brazil
-- Financial-Services
+- Financial Services
 tags_raw:
 - Company
 - Fintech
@@ -57,6 +57,7 @@ tags_raw:
 - Robo-Advisor
 - Brazil
 - Financial Services
+- Financial-Services
 apis: []
 maintainers:
 - FN: Kin Lane
